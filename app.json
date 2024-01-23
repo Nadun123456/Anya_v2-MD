@@ -1,38 +1,39 @@
 {
   "name": "Queen Anya Ver.2",
   "description": "Anya_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
-  "repository": "https://github.COM/PikaBotz/Anya_v2-MD",
+  "repository": "https://github.com/Nadun123456/Anya_v2-MD",
   "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg",
   "keywords": ["Automation", "Innovation", "Versatility", "Efficiency", "Messaging", "Chatbot", "Integration", "Customization", "Ease of Use", "Personalization"],
   "success_url": "/",
   "stack": "container",
   "env": {
        "BotName": {
-           "description": "Enter your desired bot\"s name (Ex:- Queen Anya)",
+           "description": "laksidu",
            "required": true
        },
        "Footer": {
-           "description": "Enter a watermark for your bot\"s messages (Ex:- ? Queen Anya)",
+           "description": "Queen Anya",
            "required": true
        },
        "Prefix": {
-           "description": "Enter a specific prefix for your bot, except @, ?, +",
+           "description": ".",
            "required": true
        },
        "Owner_Name": {
-           "description": "Enter a name for bot\"s owner (Ex:- Pika~Kun)",
+           "description": " laksidu",
            "required": true
        },
        "Owner_Number": {
-           "description": "Enter owner\"s number of the bot (Ex:- 918811xxxxxx)",
+           "description": "+94716190819",
            "required": true
        },
        "MongoDB": {
-           "description": "Get your mongoDB url from mongoDB website",
+           "description": "mongodb+srv://Saka:Saka@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majority",
            "required": true
        },
        "SESSION_ID" : {
-           "description": "Get your session id first, if you already have then paste here",
+           "description": "Rotte_AN_YA_nBe_AN_YA_atrice_AN_YA_
+",
            "required": true
        },
        "Insta": {
